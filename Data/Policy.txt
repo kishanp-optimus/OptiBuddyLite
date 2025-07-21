@@ -1,0 +1,115 @@
+
+### 📄 **1. Remote Work Policy**
+
+**Effective Date:** Jan 1, 2024
+**Summary:** Employees may work remotely up to three days a week with manager approval.
+**Key Points:**
+
+* Employees must be reachable on Microsoft Teams during work hours.
+* Company-provided devices must be used at all times.
+* A weekly progress update email is mandatory every Friday.
+
+---
+
+### 📄 **2. Paid Time Off (PTO) Policy**
+
+**Effective Date:** Mar 1, 2024
+**Annual Leave Entitlement:** 24 days
+**Carry Forward:** Up to 5 unused days can be carried forward to the next year.
+**Process:**
+
+* Submit PTO requests at least 5 business days in advance.
+* Approvals are subject to team coverage requirements.
+
+---
+
+### 📄 **3. Dress Code Policy**
+
+**Effective Date:** Feb 1, 2024
+**Summary:** Business casual is the default dress code.
+**Exceptions:**
+
+* Fridays are "Dress Down Days" (casual wear allowed).
+* Formal attire is required during client meetings and presentations.
+
+---
+
+### 📄 **4. Internet Usage Policy**
+
+**Effective Date:** Apr 1, 2024
+**Summary:** Company internet must only be used for business purposes.
+**Prohibited Usage:**
+
+* Streaming media (e.g., Netflix, YouTube) unless work-related.
+* Downloading pirated content or software.
+
+---
+
+### 📄 **5. Performance Appraisal Policy**
+
+**Effective Date:** May 1, 2024
+**Cycle:** Annual (March–April)
+**Evaluation Factors:**
+
+* KPIs & Goals Achievement (60%)
+* Peer Feedback (20%)
+* Manager Assessment (20%)
+
+---
+
+### 📄 **6. Company Laptop Policy**
+
+**Effective Date:** Jan 15, 2024
+**Scope:** All full-time employees.
+**Policy:**
+
+* Laptops must be returned upon termination.
+* Loss or damage due to negligence may incur personal liability.
+
+---
+
+### 📄 **7. Email Signature Policy**
+
+**Effective Date:** Feb 15, 2024
+**Standard Format:**
+
+```
+Name | Job Title
+Company Name
+Phone | Email | LinkedIn (optional)
+```
+
+**Note:** No emojis or quotes in signatures.
+
+---
+
+### 📄 **8. Attendance and Punctuality Policy**
+
+**Effective Date:** Mar 15, 2024
+**Working Hours:** 9:30 AM to 6:30 PM (IST)
+**Grace Time:** 15 minutes (max 3 times per month)
+**Penalty:** More than 3 late arrivals result in HR counseling.
+
+---
+
+### 📄 **9. Employee Referral Program**
+
+**Effective Date:** Apr 10, 2024
+**Referral Bonus:** ₹10,000–₹25,000 depending on position
+**Conditions:**
+
+* Referred candidate must stay at least 6 months.
+* Referrals must be submitted through the HR portal.
+
+---
+
+### 📄 **10. Expense Reimbursement Policy**
+
+**Effective Date:** Mar 20, 2024
+**Eligible Expenses:**
+
+* Travel (train, flight, cab)
+* Meals (during official travel)
+* Hotel accommodations
+  **Submission Deadline:** Within 15 days of expense date
+  **Approvals:** Require manager + finance clearance
